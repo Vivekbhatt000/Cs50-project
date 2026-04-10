@@ -1,5 +1,6 @@
 # Program to find Fabonacci series upto n terms
 n = int(input('Enter the no. of terms of Fabonacci Series: ' ))
+# n=(n-1)+(n-2)
 a = 0
 b = 1
 print ('Fabonacci Series-')
