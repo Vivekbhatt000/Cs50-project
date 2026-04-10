@@ -18,6 +18,6 @@ elif score >=50 and score <60:
 elif score <=49 :
     print('Grade: F')
 
-
+#total score
 score = int(input('Score: '))
 
