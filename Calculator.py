@@ -8,7 +8,7 @@ print(f'Sum of the numbers = {z:,}')
 a = round(x/y,2)
 print(f'Quotient of numbers = {a}') 
 
-# Division
+# Division long long
 print(f'using diffrent method result = {a:2f}')
 
 # Addition
